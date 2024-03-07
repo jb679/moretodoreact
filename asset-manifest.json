@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moretodoreact/static/css/main.31a68916.css",
+    "main.js": "/moretodoreact/static/js/main.9fd30661.js",
+    "index.html": "/moretodoreact/index.html",
+    "main.31a68916.css.map": "/moretodoreact/static/css/main.31a68916.css.map",
+    "main.9fd30661.js.map": "/moretodoreact/static/js/main.9fd30661.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a68916.css",
+    "static/js/main.9fd30661.js"
+  ]
+}
